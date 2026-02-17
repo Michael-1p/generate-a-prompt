@@ -50,7 +50,7 @@ const App: React.FC = () => {
         {/* Hero & Input Section */}
         <section className="text-center space-y-4 pt-8">
           <h2 className="text-4xl md:text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 via-purple-400 to-indigo-400 animate-gradient-x">
-            Commercial-Grade Stabilization Engine
+            Prompt Generator
           </h2>
           <p className="text-slate-400 text-lg max-w-2xl mx-auto font-light leading-relaxed">
             Transform vague requests into high-control, low-variance, deterministic prompt architectures.

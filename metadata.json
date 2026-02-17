@@ -1,5 +1,5 @@
 {
-  "name": "Commercial-Grade Prompt Stabilization Engine",
+  "name": "Prompt Generator",
   "description": "A production-grade system engineered to transform requests into high-control, low-variance, commercially stable prompt architectures.",
   "requestFramePermissions": []
 }

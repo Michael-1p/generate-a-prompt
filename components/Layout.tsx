@@ -18,8 +18,8 @@ export const Layout: React.FC<LayoutProps> = ({ children }) => {
               </svg>
             </div>
             <div>
-              <h1 className="text-xl font-bold tracking-tight">Stabilization Engine</h1>
-              <p className="text-xs text-slate-400 font-medium">Commercial-Grade Prompt Optimization</p>
+              <h1 className="text-xl font-bold tracking-tight">Prompt Generator</h1>
+              <p className="text-xs text-slate-400 font-medium">Universal Engineering Engine</p>
             </div>
           </div>
         </div>
@@ -32,7 +32,7 @@ export const Layout: React.FC<LayoutProps> = ({ children }) => {
       <footer className="border-t border-slate-800 py-8 bg-slate-900/30">
         <div className="max-w-6xl mx-auto px-4 text-center">
           <p className="text-slate-500 text-sm">
-            &copy; {new Date().getFullYear()} Commercial-Grade Prompt Stabilization Engine.
+            &copy; {new Date().getFullYear()} Prompt Generator Engine.
           </p>
         </div>
       </footer>
